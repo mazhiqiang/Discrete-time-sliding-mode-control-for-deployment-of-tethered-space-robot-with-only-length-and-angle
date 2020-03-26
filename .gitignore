@@ -1,0 +1,12 @@
+
+*.doc
+*.pdf
+*.vsdx
+*.m
+*.mat
+*.aux
+*.bbl
+*.blg
+*.log
+*.gz
+*.zip
